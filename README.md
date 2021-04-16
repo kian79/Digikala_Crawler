@@ -14,3 +14,5 @@ After using this command crawler starts to crawl every item on [Digikala](https:
 
 ## Example
 After the program is finished, you can refer to your .csv file and see its contents. The content is something like the following figure.
+![crawler_example](examples/digikala_crawler.png)
+
